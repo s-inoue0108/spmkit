@@ -7,9 +7,9 @@
 ## Installation
 
 ```bash
-# via wheel binary
-pip install spmkit-***.whl
-
-# via gzip source
-pip install spmkit-***.tar.gz
+pip install spmkit-learn
 ```
+
+## Document
+
+https://siwl.dev/docs/spmkit
